@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dbLoad", "dbLoad\dbLoad.csproj", "{03348AFB-63DB-4C50-8C6C-42F08F1847EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03348AFB-63DB-4C50-8C6C-42F08F1847EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03348AFB-63DB-4C50-8C6C-42F08F1847EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03348AFB-63DB-4C50-8C6C-42F08F1847EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03348AFB-63DB-4C50-8C6C-42F08F1847EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BD23EF2-7190-4317-8878-5090070EFE5B}
+	EndGlobalSection
+EndGlobal
